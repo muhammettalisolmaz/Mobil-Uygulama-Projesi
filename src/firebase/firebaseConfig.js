@@ -5,17 +5,17 @@ import ReactNativeAsyncStorage from "@react-native-async-storage/async-storage";
 
 const firebaseConfig = {
 
-  apiKey: "AIzaSyCNM-kFj4FGaeCWFnXNilp_7I39Q3jUTik",
+  apiKey: "AIzaSyB60CzD9fQgRec7CJi_aYdkulFQIzRpYt4",
 
-  authDomain: "githubmusterisikayet.firebaseapp.com",
+  authDomain: "musteri-geri-bildirim.firebaseapp.com",
 
-  projectId: "githubmusterisikayet",
+  projectId: "musteri-geri-bildirim",
 
-  storageBucket: "githubmusterisikayet.firebasestorage.app",
+  storageBucket: "musteri-geri-bildirim.firebasestorage.app",
 
-  messagingSenderId: "64837782444",
+  messagingSenderId: "898030075332",
 
-  appId: "1:64837782444:web:080974d0f42681a2a7c809"
+  appId: "1:898030075332:web:139336c8a2cae8673c7891"
 
 };
 
