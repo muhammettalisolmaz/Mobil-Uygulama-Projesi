@@ -20,6 +20,6 @@ node.js indir ve kur
 Emülatör çalıştırılır
 Terminale aşağıdaki kodlar yazılır
 
-nmp install
+npm install
 
 npm run android veya ios
